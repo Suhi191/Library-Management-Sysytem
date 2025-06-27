@@ -123,3 +123,8 @@ A separate file advanced_features includes:
   - Members who borrowed the most books
 
 > 📂 Check the file: [Advanced_Features](./Advanced_Features.sql)
+ 
+ ## 🗂 ER Diagram
+
+The ER diagram below shows the relationship between Books, Members, and IssuedBooks.
+![Library_Schema](./Library_Schema.jpg)
