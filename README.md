@@ -108,13 +108,18 @@ GROUP BY Books.Title;
 
 ---
 
-## ✅ Status
-
-> Project: Completed 🎉  
-> You can use this for college submissions, GitHub portfolio, or as part of your resume!
-
----
-
 ## 📂 License
 
 Free to use under the MIT License.
+
+## 🔧 Advanced Features Added
+
+A separate file advanced_features includes:
+
+- 📄 A *VIEW* to track overdue books (OverdueBooks)
+- ⚙ A *TRIGGER* to reduce book quantity after issuing
+- 📊 *Analytics Queries*:
+  - Top 5 most issued books
+  - Members who borrowed the most books
+
+> 📂 Check the file: [Advanced_Features](./Advanced_Features)
